@@ -35,4 +35,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## Project basics
-next app with typescript and tailwindscss
+NextJS app with typescript and tailwindscss
+AI takes audio from a video and turns it to text that can be displayed as wanted
